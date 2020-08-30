@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1357595908 source:e:\users\angel\desktop\niniria\libgame.cpp
+	"libgame.h"
+	<windows.h>
+	<stdio.h>
+
+1357595908 e:\users\angel\desktop\niniria\libgame.h
+
+1480120527 source:e:\users\angel\desktop\niniria\main.cpp
+	"windows.h"
+	"stdio.h"
+	"conio.h"
+	"iostream"
+	"libgame.h"
+	<string>
+
+1357595908 source:e:\users\angel\desktop\trabajos\niniria\libgame.cpp
+	"libgame.h"
+	<windows.h>
+	<stdio.h>
+
+1357595908 e:\users\angel\desktop\trabajos\niniria\libgame.h
+
+1480547424 source:e:\users\angel\desktop\trabajos\niniria\main.cpp
+	"windows.h"
+	"stdio.h"
+	"conio.h"
+	"iostream"
+	"libgame.h"
+	<string>
+
+1357595908 source:e:\users\angel\desktop\programas\trabajos\niniria\libgame.cpp
+	"libgame.h"
+	<windows.h>
+	<stdio.h>
+
+1357595908 e:\users\angel\desktop\programas\trabajos\niniria\libgame.h
+
+1480547424 source:e:\users\angel\desktop\programas\trabajos\niniria\main.cpp
+	"windows.h"
+	"stdio.h"
+	"conio.h"
+	"iostream"
+	"libgame.h"
+	<string>
+
+1357599508 source:c:\users\angel\desktop\programas\trabajos\niniria\libgame.cpp
+	"libgame.h"
+	<windows.h>
+	<stdio.h>
+
+1357599508 c:\users\angel\desktop\programas\trabajos\niniria\libgame.h
+
+1480551024 source:c:\users\angel\desktop\programas\trabajos\niniria\main.cpp
+	"windows.h"
+	"stdio.h"
+	"conio.h"
+	"iostream"
+	"libgame.h"
+	<string>
+
