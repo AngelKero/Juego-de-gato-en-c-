@@ -1,4 +1,4 @@
-# Juego-de-gato-en-c-
+# Juego-de-gato-en-c++
 Mi primer proyecto que hice.
 
 Datos del login:
